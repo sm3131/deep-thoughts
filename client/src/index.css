@@ -127,6 +127,14 @@ nav a:hover {
   background-color: var(--dark);
 }
 
+.pill-user:hover {
+  color: var(--secondary);
+}
+
+.btn-friend:hover {
+  color: var(--secondary);
+}
+
 .btn-inline {
   display: inline;
 }
